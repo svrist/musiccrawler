@@ -13,9 +13,10 @@ part of the study credit for my two-years masters(cand.scient) at the
 [University Of Copenhagen, Department of Computer Science][2]
 
 Other parts can be seen in
- - [PreOmr github][http://github.com/svrist/preomr] - Code that uses [Gamera][3]
+
+ - [PreOmr github][5] - Code that uses [Gamera][3]
  and exploits whatever possible to try to remove text and dynamics.
- - [Diku ONR github][http://github.com/svrist/diku/tree/master/onr/]. LaTeX
+ - [Diku ONR github][4]. LaTeX
  source of the paper "driving" this code. (Work In Progress)
 
 
@@ -32,3 +33,8 @@ work on the work of [Johan Sejr Brinch Nielsen][1].
 [2]: http://diku.dk
 
 [3]: http://gamera.sf.net
+
+[4]: http://github.com/svrist/diku/tree/master/onr/
+
+[5]: http://github.com/svrist/preomr
+
