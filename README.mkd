@@ -1,0 +1,26 @@
+Crawling online sheetmusic libraries
+====================================
+
+This is a collection of scripts using Beautifulsoup crawling the
+mutopia,musedata and freescore for data and inserting it to a db
+at google app engine via preomrgae.py.
+
+Uses BeautifulSoup, Html5lib and urlgrabber.
+
+This code is developed as a part of a project named *Optical character
+recognition for structural information from high-quality scanned music* which is
+part of the study credit for my two-years masters(cand.scient) at the 
+[University Of Copenhagen, Department of Computer Science][2]
+
+
+
+Copyrights
+-----------
+Based on the works of Brian Søborg and Kim Juncher which in turn based their
+work on the work of [Johan Sejr Brinch Nielsen][1].
+
+
+
+[1]: http://diku.dk/hjemmesider/studerende/zerrez/sections/projects/music.html
+
+[2]: http://diku.dk
