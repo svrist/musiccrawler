@@ -12,6 +12,12 @@ recognition for structural information from high-quality scanned music* which is
 part of the study credit for my two-years masters(cand.scient) at the 
 [University Of Copenhagen, Department of Computer Science][2]
 
+Other parts can be seen in
+ - [PreOmr github][http://github.com/svrist/preomr] - Code that uses [Gamera][3]
+ and exploits whatever possible to try to remove text and dynamics.
+ - [Diku ONR github][http://github.com/svrist/diku/tree/master/onr/]. LaTeX
+ source of the paper "driving" this code. (Work In Progress)
+
 
 
 Copyrights
@@ -24,3 +30,5 @@ work on the work of [Johan Sejr Brinch Nielsen][1].
 [1]: http://diku.dk/hjemmesider/studerende/zerrez/sections/projects/music.html
 
 [2]: http://diku.dk
+
+[3]: http://gamera.sf.net
